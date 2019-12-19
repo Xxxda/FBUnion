@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "FBUnion"
-  spec.version      = "0.1.0"
+  spec.version      = "0.1.1"
   spec.summary      = "飞榜游戏联运"
 
 
