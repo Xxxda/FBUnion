@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "飞榜游戏联运"
 
 
-spec.license = "Copyright (c) 2019年 xiaotengda9@163.com. All rights reserved."
+  spec.license          = { :type => 'MIT', :file => 'LICENSE' }
 
 spec.ios.deployment_target = "9.0"
 spec.homepage         = 'https://gitee.com/xiaotengda'
